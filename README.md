@@ -1,1 +1,1 @@
-# shopping_react_
+# coding-project-template
